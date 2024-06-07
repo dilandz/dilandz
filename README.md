@@ -21,9 +21,9 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dilandz&show_icons=true&locale=en&layout=compact" alt="dilandz" width="24%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=dilandz&show_icons=true&locale=en" alt="dilandz" width="32%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilandz&" alt="dilandz" width="34%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dilandz&show_icons=true&locale=en&layout=compact" alt="dilandz" width="26%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dilandz&show_icons=true&locale=en" alt="dilandz" width="34%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilandz&" alt="dilandz" width="36%" />
 </p>
 
 
