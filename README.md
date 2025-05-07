@@ -1,13 +1,13 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Dilan</h1>
-<h3 align="center">A passionate Full Stack Software Developer specialized in MERN stack currently working as Frontend Developer.</h3>
+<h3 align="center">A passionate Frontend Software Engineer who has experience in both frontend and backend development.</h3>
 <img align="right" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="gif" />
 
 
 
 - 🌱 I’m currently improving my **full stack development skills**
 
-- 💬 Ask me about **Experienced Full Stack Software Developer proficient in React, Node.js, Express.js, MongoDB, Firebase, MySQL, Tailwind CSS, and AWS. Passionate about delivering high-quality products that meet client expectations. With a strong background in web application development, I excel in both frontend and backend development, ensuring seamless integration and exceptional user experiences.**
+- 💬 Ask me about **Experienced Frontend Software Engineer proficient in React, Node.js, Express.js, Mongodb, Firebase, Mysql, Tailwind CSS, and AWS. Passionate about delivering high-quality products that meet client expectations. With a strong background in web application development, I excel in both frontend and backend development, ensuring seamless integration and exceptional user experiences.**
 
 - 📫 How to reach me **dilandezilva12@gmail.com**
 
